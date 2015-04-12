@@ -13,7 +13,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <![endif]-->
 	
-	<title> MountCool HTML5 Template </title>
+	<title> Welcome to Global IT Services </title>
 	
 	<meta name="description" content="">
 	<meta name="author" content="designthemes">
@@ -60,7 +60,7 @@
 </head>
 
 <body>
-	<div id="preloader"> <h1> MountCool is Dressing Up. Please Wait!! </h1> </div>
+	<div id="preloader"> <h1> GITS is Dressing Up. Please Wait!! </h1> </div>
     <div class="wrapper">
         <div class="inner-wrapper">
             <!-- Header Starts here -->
